@@ -8,7 +8,10 @@ function App() {
 
   return (
     <>
-      
+      <div style={{style:"padding:20px"}}>
+        <h1>Choose the color</h1>
+
+      </div>
     </>
   )
 }
